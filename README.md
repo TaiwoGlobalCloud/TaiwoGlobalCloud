@@ -2,13 +2,15 @@ Building secure cloud systems that scale without breaking trust.
 
 🔐 Cloud Security Engineer | DevSecOps | Solutions Architect
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3c19c7d2-0a5a-4126-b7be-4adfe8a0673f" />
+
 I build cloud systems that are not just scalable, but secure, reliable, and ready for real-world use.
 
 Over the past 6+ years, I’ve worked hands-on with AWS and multi-account environments, focusing on Zero Trust architecture, Infrastructure as Code (Terraform), and DevSecOps practices.
 
 I like to keep things simple: security should be part of the build, not something you fix later.
 
-Most of what I do is centered around automating security, tightening access controls, and helping teams move faster without losing visibility or control.
+Most of my work centers on automating security, tightening access controls, and helping teams move faster without losing visibility or control.
 
 ## 🏅 Certifications & Tech Stack  
 
@@ -41,7 +43,6 @@ CIS Benchmarks, NIST Framework, PCI-DSS
 *I’m currently working toward adding more formal certifications to this list.*
 
 🚀 What I Do
-
 Design secure-by-default cloud architectures
 Build and automate infrastructure using Terraform
 Integrate security into CI/CD pipelines
@@ -49,11 +50,10 @@ Implement IAM controls and Zero Trust access models
 Work on systems that reflect real production environments
 
 📊 Impact
-
 Reduced unauthorized access by 65%
 Improved compliance posture to 94% (CIS benchmarks)
 Cut incident detection time from hours to minutes
-Worked on securing systems across fintech and enterprise environments
+Supported cloud security across fintech and enterprise environments
 
 🧠 Technical Focus
 Cloud Security (AWS, Azure)
@@ -63,6 +63,11 @@ DevSecOps & CI/CD Security
 Monitoring & Incident Response
 Governance, Risk & Compliance (NIST, CIS, PCI-DSS)
 
+🔄 Currently Working On
+Improving automated Zero Trust enforcement
+Building scalable cloud security architectures
+Expanding Terraform-based security frameworks
+
 📌 Featured Projects
 
 Here’s how I approach cloud security—from getting the basics right to building full systems:
@@ -70,33 +75,33 @@ Here’s how I approach cloud security—from getting the basics right to buildi
 🧱 Foundation: Governance & Secure Infrastructure
 🏢 AWS Organizations SCP (Terraform)
 
-Sets up guardrails across accounts to prevent risky actions.
+Sets guardrails across accounts to prevent risky actions before they happen.
 
 🗄️ Secure S3 Data Lake (Terraform)
 
-A simple, secure data lake with encryption and controlled access.
+Builds a secure data storage layer with encryption and controlled access.
 
 🔐 Core Security Controls
 🧹 Terraform Secure SG Cleanup
 
-Cleans up insecure or unused security group rules.
+Identifies and removes insecure or unused security group rules.
 
 🚫 AWS WAF Basic Auth Blocker
 
-Blocks suspicious or unauthorized access early.
+Stops suspicious or unauthorized traffic early at the edge.
 
 🛡️ AWS WAF Project
 
-A more complete WAF setup for protecting web apps.
+Implements a full WAF setup to protect applications from common attacks.
 
 📊 Monitoring & Detection
 📊 AWS Log Pipeline (Terraform Architecture)
 
-Centralized logging so you can actually see what’s happening.
+Centralizes logs so activity is visible, traceable, and auditable.
 
 🔐 AWS Central Security Delegation
 
-Central place to manage security services across accounts.
+Creates a central place to manage security services across accounts.
 
 🏗️ Advanced Architecture (Main Project)
 🔐 UpScale RealEstate – Secure Cloud Architecture
@@ -104,23 +109,23 @@ Central place to manage security services across accounts.
 This is where everything comes together.
 
 Cognito for authentication (JWT)
-API Gateway for access control
+API Gateway for controlled access
 Lambda for backend logic
 Private subnets for sensitive resources
 CloudTrail & GuardDuty for monitoring
 Terraform for full automation
 
-It’s a practical example of applying Zero Trust and secure design in a real system.
+A practical example of applying Zero Trust and secure design in a real system.
 
 🤖 Exploring Further
 🤖 Autonomous Zero Trust Cloud Security
 
-Looking into how security can be automated and enforced more intelligently.
+Exploring how security can be enforced more dynamically and automatically.
 
 ⚙️ Supporting Work
 📸 CTSI Photo Sync
 
-A smaller project around secure file handling and automation.
+A smaller project focused on secure file handling and automation.
 
 📦 What You’ll Find Here
 
@@ -133,10 +138,13 @@ Simple, usable solutions (not just theory)
 
 📍 Houston, Texas, United States
 📧 taiwojusticeo@gmail.com
+
 🔗 LinkedIn
 https://www.linkedin.com/in/tj-o-lana-b6945736b/
+
 🔬 ResearchGate
 https://www.researchgate.net/profile/Taiwo-Olorunlana
+
 📚 Google Scholar
 https://scholar.google.com/citations?user=NS28xE4AAAAJ&hl=en
 
@@ -148,4 +156,6 @@ Zero Trust systems
 Automation in security
 Protecting critical infrastructure
 
-This GitHub is where I share what I’m building and learning as I keep improving in cloud security and system design.
+This GitHub is where I share what I’m building and learning as I continue growing in cloud security and system design.
+
+Security is not a feature—it’s the foundation.
