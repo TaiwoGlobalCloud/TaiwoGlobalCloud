@@ -1,45 +1,151 @@
-Cloud Security Engineer | DevSecOps Engineer | Solutions Architect
+Building secure cloud systems that scale without breaking trust.
 
-Results-driven Cloud Security Engineer with over 6 years of hands-on experience securing and automating large-scale AWS and multi-account cloud environments. I specialize in Zero Trust security architectures, infrastructure as code (Terraform), DevSecOps automation, and cloud governance, with proven impact across financial services, fintech, and enterprise platforms.
+🔐 Cloud Security Engineer | DevSecOps | Solutions Architect
 
-My work focuses on building secure-by-design cloud infrastructure, automating security controls, and embedding compliance into CI/CD pipelines. I have led cloud security initiatives that reduced unauthorized access by 65%, improved compliance posture to 94% (CIS benchmarks), and cut incident detection times from hours to minutes.
+I build cloud systems that are not just scalable, but secure, reliable, and ready for real-world use.
 
-On GitHub, I maintain and publish production-grade cloud security frameworks, Terraform modules, and automation tools that demonstrate real-world security engineering—not demos.
+Over the past 6+ years, I’ve worked hands-on with AWS and multi-account environments, focusing on Zero Trust architecture, Infrastructure as Code (Terraform), and DevSecOps practices.
 
-Technical Focus
+I like to keep things simple: security should be part of the build, not something you fix later.
 
-Cloud Security Engineering (AWS, Azure)
+Most of what I do is centered around automating security, tightening access controls, and helping teams move faster without losing visibility or control.
 
-Zero Trust Architecture & IAM Automation
+## 🏅 Certifications & Tech Stack  
 
+**Cloud & Security**  
+AWS (Security, IAM, VPC, S3)  
+Zero Trust Architecture  
+
+![AWS](https://img.shields.io/badge/AWS-Cloud_Security-orange?style=for-the-badge&logo=amazon-aws)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-Architecture-red?style=for-the-badge)
+
+---
+
+**Infrastructure & DevOps**  
+Terraform, CloudFormation  
+CI/CD Security (DevSecOps)  
+
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Automation-blue?style=for-the-badge)
+
+---
+
+**Governance & Compliance**  
+CIS Benchmarks, NIST Framework, PCI-DSS  
+
+![CIS](https://img.shields.io/badge/CIS-Compliant-green?style=for-the-badge)
+![NIST](https://img.shields.io/badge/NIST-Framework-lightgrey?style=for-the-badge)
+
+---
+
+*I’m currently working toward adding more formal certifications to this list.*
+
+🚀 What I Do
+
+Design secure-by-default cloud architectures
+Build and automate infrastructure using Terraform
+Integrate security into CI/CD pipelines
+Implement IAM controls and Zero Trust access models
+Work on systems that reflect real production environments
+
+📊 Impact
+
+Reduced unauthorized access by 65%
+Improved compliance posture to 94% (CIS benchmarks)
+Cut incident detection time from hours to minutes
+Worked on securing systems across fintech and enterprise environments
+
+🧠 Technical Focus
+Cloud Security (AWS, Azure)
+Zero Trust & IAM
 Infrastructure as Code (Terraform, CloudFormation)
-
-DevSecOps & CI/CD Security Automation
-
-Cloud Monitoring, Detection & Incident Response
-
+DevSecOps & CI/CD Security
+Monitoring & Incident Response
 Governance, Risk & Compliance (NIST, CIS, PCI-DSS)
 
-What You’ll Find Here
+📌 Featured Projects
 
-Secure Terraform modules used across multi-account AWS environments
+Here’s how I approach cloud security—from getting the basics right to building full systems:
 
-IAM, S3, Lambda, and network security automation
+🧱 Foundation: Governance & Secure Infrastructure
+🏢 AWS Organizations SCP (Terraform)
 
-Cloud security tooling aligned with enterprise and regulated environments
+Sets up guardrails across accounts to prevent risky actions.
 
-Practical implementations of Zero Trust and compliance-as-code
+🗄️ Secure S3 Data Lake (Terraform)
 
-Contact & Professional Profiles
+A simple, secure data lake with encryption and controlled access.
 
-Location: Houston, Texas, United States
+🔐 Core Security Controls
+🧹 Terraform Secure SG Cleanup
 
-Email: taiwojusticeo@gmail.com
+Cleans up insecure or unused security group rules.
 
-LinkedIn: https://www.linkedin.com/in/tj-o-lana-b6945736b/
+🚫 AWS WAF Basic Auth Blocker
 
-ResearchGate: https://www.researchgate.net/profile/Taiwo-Olorunlana
+Blocks suspicious or unauthorized access early.
 
-Google Scholar: https://scholar.google.com/citations?user=NS28xE4AAAAJ&hl=en
+🛡️ AWS WAF Project
 
-This GitHub profile represents my professional cloud security engineering work, ongoing learning, and contributions to secure, scalable, and compliant cloud infrastructure.
+A more complete WAF setup for protecting web apps.
+
+📊 Monitoring & Detection
+📊 AWS Log Pipeline (Terraform Architecture)
+
+Centralized logging so you can actually see what’s happening.
+
+🔐 AWS Central Security Delegation
+
+Central place to manage security services across accounts.
+
+🏗️ Advanced Architecture (Main Project)
+🔐 UpScale RealEstate – Secure Cloud Architecture
+
+This is where everything comes together.
+
+Cognito for authentication (JWT)
+API Gateway for access control
+Lambda for backend logic
+Private subnets for sensitive resources
+CloudTrail & GuardDuty for monitoring
+Terraform for full automation
+
+It’s a practical example of applying Zero Trust and secure design in a real system.
+
+🤖 Exploring Further
+🤖 Autonomous Zero Trust Cloud Security
+
+Looking into how security can be automated and enforced more intelligently.
+
+⚙️ Supporting Work
+📸 CTSI Photo Sync
+
+A smaller project around secure file handling and automation.
+
+📦 What You’ll Find Here
+
+Terraform-based infrastructure
+Cloud security automation
+Practical Zero Trust implementations
+Simple, usable solutions (not just theory)
+
+🌍 Professional Presence
+
+📍 Houston, Texas, United States
+📧 taiwojusticeo@gmail.com
+🔗 LinkedIn
+https://www.linkedin.com/in/tj-o-lana-b6945736b/
+🔬 ResearchGate
+https://www.researchgate.net/profile/Taiwo-Olorunlana
+📚 Google Scholar
+https://scholar.google.com/citations?user=NS28xE4AAAAJ&hl=en
+
+🎯 Vision
+
+I’m interested in both the engineering side and the research side of cloud security—especially around:
+
+Zero Trust systems
+Automation in security
+Protecting critical infrastructure
+
+This GitHub is where I share what I’m building and learning as I keep improving in cloud security and system design.
