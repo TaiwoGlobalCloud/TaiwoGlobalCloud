@@ -6,7 +6,7 @@
 
 I build cloud systems that are not just scalable, but **secure, reliable, and ready for real-world use**.
 
-Over the past 6+ years, I’ve worked hands-on with AWS and multi-account environments, focusing on **Zero Trust architecture, Infrastructure as Code (Terraform), and DevSecOps practices**.
+My work centers on securing AWS and cloud environments through Zero Trust architecture, Infrastructure as Code (Terraform), and DevSecOps practices aimed at strengthening resilient cloud infrastructure.
 
 I like to keep things simple: **security should be part of the build, not something you fix later**.
 
