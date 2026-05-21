@@ -92,10 +92,10 @@ Here’s how I approach cloud security—from getting the basics right to buildi
 
 ### 🧱 Foundation: Governance & Secure Infrastructure  
 
-#### 🏢 [AWS Organizations SCP (Terraform)](https://github.com/Taiwojustice1987/aws-org-scp-terraform)  
+#### 🏢 [AWS Organizations SCP (Terraform)](https://github.com/TaiwoGlobalCloud/aws-org-scp-terraform) 
 Sets guardrails across accounts to prevent risky actions before they happen.
 
-#### 🗄️ [Secure S3 Data Lake (Terraform)](https://github.com/Taiwojustice1987/secure-s3-data-lake-terraform)  
+#### 🗄️ [Secure S3 Data Lake (Terraform)](https://github.com/TaiwoGlobalCloud/secure-s3-data-lake-terraform) 
 Builds a secure data storage layer with encryption and controlled access.
 
 ---
@@ -108,24 +108,24 @@ Identifies and removes insecure or unused security group rules.
 #### 🚫 [AWS WAF Basic Auth Blocker](https://github.com/Taiwojustice1987/aws-waf-basic-auth-blocker)  
 Stops suspicious or unauthorized traffic early at the edge.
 
-#### 🛡️ [AWS WAF Project](https://github.com/Taiwojustice1987/AWS-WAF-Project)  
+#### 🛡️ [AWS WAF Project](https://github.com/TaiwoGlobalCloud/AWS-WAF-Project)  
 Implements a full WAF setup to protect applications from common attacks.
 
 ---
 
 ### 📊 Monitoring & Detection  
 
-#### 📊 [AWS Log Pipeline (Terraform Architecture)](https://github.com/Taiwojustice1987/aws-log-pipeline-terraform)  
+#### 📊 [AWS Log Pipeline (Terraform Architecture)](https://github.com/TaiwoGlobalCloud/aws-log-pipeline-terraform)  
 Centralizes logs so activity is visible, traceable, and auditable.
 
-#### 🔐 [AWS Central Security Delegation](https://github.com/Taiwojustice1987/aws-central-security-delegation)  
+#### 🔐 [AWS Central Security Delegation](https://github.com/TaiwoGlobalCloud/aws-central-security-delegation)  
 Creates a central place to manage security services across accounts.
 
 ---
 
 ### 🏗️ Advanced Architecture (Main Project)  
 
-#### 🔐 [UpScale RealEstate – Secure Cloud Architecture](https://github.com/Taiwojustice1987/upscale-secure-cloud-architecture)  
+#### 🔐 [UpScale RealEstate – Secure Cloud Architecture](https://github.com/TaiwoGlobalCloud/upscale-secure-cloud-architecture)  
 This is where everything comes together.
 
 - Cognito for authentication (JWT)  
@@ -141,16 +141,15 @@ A practical example of applying **Zero Trust and secure design in a real system*
 
 ### 🤖 Exploring Further  
 
-#### 🤖 [Autonomous Zero Trust Cloud Security](https://github.com/Taiwojustice1987/autonomous-zero-trust-cloud-security)  
+#### 🤖 [Autonomous Zero Trust Cloud Security](https://github.com/TaiwoGlobalCloud/autonomous-zero-trust-cloud-security)  
 Exploring how security can be enforced more dynamically and automatically.
 
 ---
 
 ### ⚙️ Supporting Work  
 
-#### 📸 [CTSI Photo Sync](https://github.com/Taiwojustice1987/ctsi-photo-sync)  
+#### 📸 [CTSI Photo Sync](https://github.com/TaiwoGlobalCloud/ctsi-photo-sync)  
 A smaller project focused on secure file handling and automation.
-
 ---
 
 ## 📦 What You’ll Find Here  
