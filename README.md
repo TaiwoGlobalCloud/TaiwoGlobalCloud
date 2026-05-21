@@ -13,33 +13,35 @@ I like to keep things simple: **security should be part of the build, not someth
 Most of my work centers on automating security, tightening access controls, and helping teams move faster **without losing visibility or control**.
 
 ---
+## 🏅 Certifications & Technical Stack  
 
-## 🏅 Certifications & Tech Stack  
+### AWS Certifications
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
 
-**Cloud & Security**  
-AWS (Security, IAM, VPC, S3)  
-Zero Trust Architecture  
-
-![AWS](https://img.shields.io/badge/AWS-Cloud_Security-orange?style=for-the-badge&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-orange?style=for-the-badge&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-yellow?style=for-the-badge&logo=amazon-aws)
 ![Zero Trust](https://img.shields.io/badge/Zero_Trust-Architecture-red?style=for-the-badge)
 
 ---
 
-**Infrastructure & DevOps**  
-Terraform, CloudFormation  
-CI/CD Security (DevSecOps)  
+### Infrastructure & DevSecOps
+- Terraform
+- CloudFormation
+- CI/CD Security (DevSecOps)
 
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-Automation-blue?style=for-the-badge)
 
 ---
 
-**Governance & Compliance**  
-CIS Benchmarks, NIST Framework, PCI-DSS  
+### Governance & Compliance
+- NIST Cybersecurity Framework
+- CIS Benchmarks
+- PCI-DSS
 
 ![CIS](https://img.shields.io/badge/CIS-Compliant-green?style=for-the-badge)
 ![NIST](https://img.shields.io/badge/NIST-Framework-lightgrey?style=for-the-badge)
-
 ---
 
 ## 🚀 What I Do  
@@ -143,7 +145,7 @@ Exploring how security can be enforced more dynamically and automatically.
 
 ### ⚙️ Supporting Work  
 
-#### 📸 [CTSI Photo Sync](https://github.com/TaiwoGlobalCloud/ctsi-photo-sync)  
+#### 📸 [CTSI Photo Sync](https://github.com/TaiwoGlobalCloud/ctsi-photo-sync)
 A smaller project focused on secure file handling and automation.
 ---
 
