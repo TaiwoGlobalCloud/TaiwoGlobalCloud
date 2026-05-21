@@ -166,28 +166,23 @@ A smaller project focused on secure file handling and automation.
 
 📍 Houston, Texas, United States  
 📧 taiwojusticeo@gmail.com  
-
-🔗 LinkedIn  
-https://www.linkedin.com/in/tj-o-lana-b6945736b/  
-
-🔬 ResearchGate  
-https://www.researchgate.net/profile/Taiwo-Olorunlana  
-
-📚 Google Scholar  
-https://scholar.google.com/citations?user=NS28xE4AAAAJ&hl=en  
+🔗 LinkedIn: https://www.linkedin.com/in/tj-o-lana-b6945736b/  
+🔬 ResearchGate: https://www.researchgate.net/profile/Taiwo-Olorunlana  
+📚 Google Scholar: https://scholar.google.com/citations?user=NS28xE4AAAAJ&hl=en
 
 ---
 
 ## 🎯 Vision  
 
-I’m interested in both the engineering side and the research side of cloud security—especially around:
+I am passionate about advancing secure cloud architectures through both engineering practice and research, with a particular focus on:
 
-- Zero Trust systems  
-- Automation in security  
-- Protecting critical infrastructure  
+- Zero Trust security architectures  
+- Security automation and DevSecOps  
+- Cloud resilience and critical infrastructure protection  
+- Secure system design and cloud governance  
 
-This GitHub is where I share what I’m building and learning as I continue growing in cloud security and system design.
+This GitHub serves as a portfolio of practical implementations, security engineering projects, and research-driven work at the intersection of cloud security and resilient infrastructure.
 
 ---
 
-Security is not a feature—it’s the foundation.
+*Security is not a feature—it is the foundation.*
