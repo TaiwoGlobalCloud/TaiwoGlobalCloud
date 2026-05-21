@@ -56,9 +56,9 @@ Most of my work centers on automating security, tightening access controls, and 
 
 ## 📊 Impact  
 
-- Improved access governance through least-privilege IAM design
-- Strengthened audit readiness using security monitoring and logging
-- Automated preventive cloud security controls 
+- Strengthened least-privilege IAM governance
+- Improved cloud visibility, monitoring, and audit readiness
+- Automated preventive security controls through Infrastructure as Code 
 
 ---
 
@@ -145,8 +145,9 @@ Exploring how security can be enforced more dynamically and automatically.
 
 ### ⚙️ Supporting Work  
 
-#### 📸 [CTSI Photo Sync](https://github.com/TaiwoGlobalCloud/ctsi-photo-sync)
+#### 📸 [CTSI Photo Sync](https://github.com/TaiwoGlobalCloud/ctsi-photo-sync)  
 A smaller project focused on secure file handling and automation.
+
 ---
 
 ## 📦 What You’ll Find Here  
