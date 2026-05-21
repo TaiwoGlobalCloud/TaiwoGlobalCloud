@@ -1,6 +1,6 @@
 > Building secure cloud systems that scale without breaking trust.
 
-## 🔐 Cloud Security Engineer | DevSecOps | Solutions Architect  
+## 🔐 Cloud Security Engineer | DevSecOps | Secure Cloud Architecture
 
 ![Architecture](https://github.com/user-attachments/assets/3c19c7d2-0a5a-4126-b7be-4adfe8a0673f)
 
@@ -58,10 +58,9 @@ CIS Benchmarks, NIST Framework, PCI-DSS
 
 ## 📊 Impact  
 
-- Reduced unauthorized access by **65%**  
-- Improved compliance posture to **94% (CIS benchmarks)**  
-- Cut incident detection time from **hours to minutes**  
-- Supported cloud security across fintech and enterprise environments  
+-Improved access governance through least-privilege IAM design
+-Strengthened audit readiness using security monitoring and logging
+-Automated preventive cloud security controls 
 
 ---
 
