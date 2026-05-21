@@ -42,10 +42,6 @@ CIS Benchmarks, NIST Framework, PCI-DSS
 
 ---
 
-*I’m currently working toward adding more formal certifications to this list.*
-
----
-
 ## 🚀 What I Do  
 
 - Design **secure-by-default cloud architectures**  
@@ -58,9 +54,9 @@ CIS Benchmarks, NIST Framework, PCI-DSS
 
 ## 📊 Impact  
 
--Improved access governance through least-privilege IAM design
--Strengthened audit readiness using security monitoring and logging
--Automated preventive cloud security controls 
+- Improved access governance through least-privilege IAM design
+- Strengthened audit readiness using security monitoring and logging
+- Automated preventive cloud security controls 
 
 ---
 
@@ -101,10 +97,10 @@ Builds a secure data storage layer with encryption and controlled access.
 
 ### 🔐 Core Security Controls  
 
-#### 🧹 [Terraform Secure SG Cleanup](https://github.com/Taiwojustice1987/Terraform-secure-sg-cleanup)  
+#### 🧹 [Terraform Secure SG Cleanup](https://github.com/TaiwoGlobalCloud/Terraform-secure-sg-cleanup)  
 Identifies and removes insecure or unused security group rules.
 
-#### 🚫 [AWS WAF Basic Auth Blocker](https://github.com/Taiwojustice1987/aws-waf-basic-auth-blocker)  
+#### 🚫 [AWS WAF Basic Auth Blocker](https://github.com/TaiwoGlobalCloud/aws-waf-basic-auth-blocker)  
 Stops suspicious or unauthorized traffic early at the edge.
 
 #### 🛡️ [AWS WAF Project](https://github.com/TaiwoGlobalCloud/AWS-WAF-Project)  
